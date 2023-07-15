@@ -1,0 +1,2 @@
+model_name: MAnet
+encoder_name: densenet169

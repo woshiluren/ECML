@@ -1,0 +1,2 @@
+model_name: FPN
+encoder_name: densenet169

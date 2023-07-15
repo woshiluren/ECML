@@ -1,0 +1,2 @@
+model_name: DeepLabV3Plus
+encoder_name: densenet169

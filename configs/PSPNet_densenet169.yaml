@@ -1,0 +1,2 @@
+model_name: PSPNet
+encoder_name: densenet169

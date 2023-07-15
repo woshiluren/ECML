@@ -1,0 +1,2 @@
+model_name: DeepLabV3Plus
+encoder_name: resnext101_32x4d

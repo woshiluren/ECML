@@ -1,0 +1,2 @@
+model_name: unetplusplus
+encoder_name: se_resnext101_32x4d

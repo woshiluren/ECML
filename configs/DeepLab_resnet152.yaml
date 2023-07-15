@@ -1,0 +1,2 @@
+model_name: DeepLabV3
+encoder_name: resnet152
